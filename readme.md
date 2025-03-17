@@ -1,6 +1,6 @@
 # Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides
 
-[![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/BAAI/Chinese-LiPS)[![License: CC BY-NC-SA-4.0](https://img.shields.io/badge/License-CC%20BY--SA--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Hugging Face Datasets](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow.svg)](https://huggingface.co/datasets/BAAI/Chinese-LiPS)   [![License: CC BY-NC-SA-4.0](https://img.shields.io/badge/License-CC%20BY--SA--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)   [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)](https://kiri0824.github.io/Chinese-LiPS/)
 
 ## ⭐ Introduction
 
