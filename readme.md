@@ -73,9 +73,4 @@ You can download the dataset from the following sources:
 
 ## 📚 Citation
 
-If you use the **Chinese-LiPS** dataset in your research, please cite the following paper:
-
-```bibtex
-@inproceedings{
-}
-```
+comming soon
