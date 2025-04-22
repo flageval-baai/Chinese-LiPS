@@ -73,4 +73,13 @@ You can download the dataset from the following sources:
 
 ## 📚 Citation
 
-comming soon
+```bibtex
+@misc{zhao2025chineselipschineseaudiovisualspeech,
+  title={Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides}, 
+  author={Jinghua Zhao and Yuhang Jia and Shiyao Wang and Jiaming Zhou and Hui Wang and Yong Qin},
+  year={2025},
+  eprint={2504.15066},
+  archivePrefix={arXiv},
+  primaryClass={cs.MM},
+  url={https://arxiv.org/abs/2504.15066}
+}
